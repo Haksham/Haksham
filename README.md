@@ -1,11 +1,14 @@
-## Hi there it's Haksham👋
-## It's a pleasure to share my work with you all.
-
+# Hi there it's Haksham👋
+### It's a pleasure to share my work with you all.
 
 ![](https://github-readme-stats.vercel.app/api?username=Haksham&show_icons=true&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haksham&theme=dracula&layout=compact)
 
 ![](https://github-profile-trophy.vercel.app/?username=Haksham&theme=dracula)
+
+![](https://leetcard.jacoblin.cool/Harsh_V_M?width=300&height=200&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count)
+![](https://geeks-for-geeks-stats-api.vercel.app/?userName=extraonb6uh)
+
 <br/><br/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" style="margin-right:10px;" title="Visual Studio Code"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" style="margin-right:10px;" title="eclipse"/>
