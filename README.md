@@ -2,7 +2,7 @@
 ### It's a pleasure to share my work with you all.
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Haksham&show_icons=true&theme=dracula) -->
-<img  width=350 style="margin-right:20px;" src="https://github-readme-stats.vercel.app/api?username=Haksham&show_icons=true&theme=dracula"/><img  width=350 height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=haksham&theme=dracula"/>
+<img  width=350 style="padding-right:20px;" src="https://github-readme-stats.vercel.app/api?username=Haksham&show_icons=true&theme=dracula"/><img  width=350 height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=haksham&theme=dracula"/>
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=haksham&theme=dracula) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haksham&theme=dracula&layout=compact)
