@@ -1,7 +1,7 @@
 # Hi there it's Haksham👋
 ### It's a pleasure to share my work with you all.
 
-![](https://github-readme-stats.vercel.app/api?username=Haksham&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=Haksham&show_icons=true&theme=dracula&width=100)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haksham&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haksham&theme=dracula&layout=compact)
 ![](https://leetcard.jacoblin.cool/Harsh_V_M?width=300&height=200&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count)
