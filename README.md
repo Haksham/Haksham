@@ -2,10 +2,11 @@
 ### It's a pleasure to share my work with you all.
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Haksham&show_icons=true&theme=dracula) -->
-<img  width=300 src="https://github-readme-stats.vercel.app/api?username=Haksham&show_icons=true&theme=dracula"/><img  width=300 height=130 src="https://github-readme-streak-stats.herokuapp.com/?user=haksham&theme=dracula"/>
+<img  width=350 style="margin-right:20px;" src="https://github-readme-stats.vercel.app/api?username=Haksham&show_icons=true&theme=dracula"/><img  width=350 height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=haksham&theme=dracula"/>
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=haksham&theme=dracula) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haksham&theme=dracula&layout=compact)
+
 ![](https://leetcard.jacoblin.cool/Harsh_V_M?width=300&height=200&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count)
 ![](https://geeks-for-geeks-stats-api.vercel.app/?userName=extraonb6uh)
 
