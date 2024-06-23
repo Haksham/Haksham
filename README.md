@@ -1,7 +1,13 @@
 ## Hi theres 👋
 
-![](https://komarev.com/ghpvc/?username=Haksham&style=rounded&label=😏&abbreviated=true)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haksham&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haksham&theme=dracula&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![](https://komarev.com/ghpvc/?username=Haksham&style=rounded&label=😏&abbreviated=true)
 <!--
 **Haksham/Haksham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
