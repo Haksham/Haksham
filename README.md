@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=Haksham)
+![](https://komarev.com/ghpvc/?username=Haksham&style=flat-square&label=😏&abbreviated=true)
 <!--
 **Haksham/Haksham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
