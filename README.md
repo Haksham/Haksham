@@ -7,7 +7,7 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=haksham&theme=dracula) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haksham&theme=dracula&layout=compact)
 
-![](https://leetcard.jacoblin.cool/Harsh_V_M?width=300&height=200&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count)
+![](https://leetcard.jacoblin.cool/H?width=300&height=180&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count)
 ![](https://geeks-for-geeks-stats-api.vercel.app/?userName=extraonb6uh)
 
 
