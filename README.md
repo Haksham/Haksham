@@ -1,20 +1,30 @@
-# Hi there it's Haksham👋
-### It's a pleasure to share my work with you all.
+<p align="center">
+  <h1 align="center" style="font-size:3em">Hi there it's Haksham<img src="hand.gif" height="50px"/></h1>
+  <h1 align="center">It's a pleasure to share my work with you all.</h1>
+</p>
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Haksham&show_icons=true&theme=dracula) -->
-<img  width=350 style="margin-right:20px;" src="https://github-readme-stats.vercel.app/api?username=Haksham&show_icons=true&theme=dracula"/><img  width=350 height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=haksham&theme=dracula"/>
-
+<p align="center">
+  <!-- ![](https://github-readme-stats.vercel.app/api?username=Haksham&show_icons=true&theme=dracula) -->
+  <img  width=350 style="margin-right:20px;" src="https://github-readme-stats.vercel.app/api?username=Haksham&show_icons=true&theme=dracula"/><img  width=350 height=155 src="https://github-readme-streak-stats.herokuapp.com/?user=haksham&theme=dracula"/>
+</p>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=haksham&theme=dracula) -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haksham&theme=dracula&layout=compact)
-
-![](https://leetcard.jacoblin.cool/H?width=300&height=180&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count)
-![](https://geeks-for-geeks-stats-api.vercel.app/?userName=extraonb6uh)
-
-
-![](https://github-profile-trophy.vercel.app/?username=Haksham&theme=dracula)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haksham&theme=dracula&layout=compact"/>
+</p>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haksham&theme=dracula&layout=compact) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haksham&theme=dracula&custom_title=Haksham's%20--->>%20Progress%20Graph&hide_border=false&bg_color=282a36&title_color=ff6e96&radius=10&height=300&days=20"/>
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/H?width=300&height=180&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count"/>
+  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=extraonb6uh"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Haksham&theme=dracula"/>
+</p>
 
 <br/><br/>
+<p align="center">
 <img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" style="margin-right:10px;" title="Visual Studio Code"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" style="margin-right:10px;" title="eclipse"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" style="margin-right:10px;" title="Jupyter Notebook"/>
@@ -32,11 +42,11 @@
 <img width="40" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" style="margin-right:10px;" title="C"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" style="margin-right:10px;" title="Python"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" style="margin-right:10px;" title="MATLAB"/>
-
+</p>
 <br/>
-
-![](https://komarev.com/ghpvc/?username=Haksham&style=rounded&label=++😏~+&abbreviated=true&color=blueviolet)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Haksham&style=rounded&label=++😏~+&abbreviated=true&color=blueviolet"/>
+</p>
 
 <!--
 **Haksham/Haksham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
