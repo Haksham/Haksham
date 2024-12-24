@@ -48,7 +48,7 @@
   <img src="https://komarev.com/ghpvc/?username=Haksham&style=rounded&label=++😏~+&abbreviated=true&color=blueviolet"/>
 </p>
 
-[](https://holopin.io/@haksham)
+[![](https://holopin.me/haksham)](https://holopin.io/@haksham)
 
 <!--
 git cloned to vscode
