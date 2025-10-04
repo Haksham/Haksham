@@ -16,7 +16,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haksham&theme=dracula&custom_title=Haksham's%20--->>%20Progress%20Graph&hide_border=false&bg_color=282a36&title_color=ff6e96&radius=10&height=300&days=20"/>
 </p>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/H?width=300&height=180&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count"/>
+  <img src="https://leetcard.jacoblin.cool/Harsh_V_M?width=300&height=180&hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count"/>
   <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=extraonb6uh"/>
 </p>
 <p align="center">
